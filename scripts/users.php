@@ -2,7 +2,7 @@
 include "../config/config.php";
 include "../config/utils.php";
 
-// USERS:
+// USERS API:
 
 $dbConn =  connect($db);
 

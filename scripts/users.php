@@ -1,6 +1,6 @@
 <?php
-include "../config/config.php";
-include "../config/utils.php";
+include "../../config/config.php";
+include "../../config/utils.php";
 
 // USERS:
 
